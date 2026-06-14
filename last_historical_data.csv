@@ -1,0 +1,2 @@
+hour,dayofweek,month,year,dayofyear,weekofyear,quarter,is_weekend,Temperature,Humidity,Demand,Demand_lag_24hr,demand_lag_168hr,demand_rolling_mean_24hr,demand_rolling_std_24hr
+23,1,12,2024,366,1,4,0,6.03747198,59.93192535,3219.023339,3070.357487,3442.46046,4059.6642760416667,970.756384957162
